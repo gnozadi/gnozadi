@@ -1,10 +1,12 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ...
+<!--- - 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Deep Learning and its applications in Healthcare
 - 👯 I’m looking to collaborate on different project in this field
 - 📫 How to reach me:
+
+  
   <div id="badges">
   <a href="g.nozadi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
